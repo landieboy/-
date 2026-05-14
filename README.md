@@ -1,9 +1,9 @@
-Auto Assign
+① https://gitee.com/qq117776417/blue-butterfly-media-studio/releases
 
-Proof HTML
+② https://atomgit.com/qq117776417
 
-欢迎来到您所在组织的演示资源库。
+③ https://blog.csdn.net/landieboy?type=download
 
-这个代码仓库旨在以最简洁的方式，展示GitHub所具备的所有优秀功能。
+④ http://landieboy.ysepan.com
 
-该仓库包含一个index.html文件（该文件可用于生成网页），两个GitHub Actions工作流，以及一个CSS样式表作为依赖项。
+⑤ https://www.youtube.com/@landieboy
